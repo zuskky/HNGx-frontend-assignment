@@ -5,8 +5,9 @@
   html {
     font-family: "Lucida Sans", sans-serif;
   }
-
-h2 {font-size:10vw;
+body { margin: 10px 20px;
+}
+h2 { font-size:10vw;
    }
 
 .responsive {
